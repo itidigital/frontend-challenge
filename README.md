@@ -2,6 +2,8 @@
 
 Desafio de frontend do iti Itaú.
 
+**Este desafio é enviado por email para pessoas avaliadas no processo seletivo para frontend no Iti Itaú.**
+
 ## Introdução
 
 Será avaliado a qualidade do seu código, a documentação e outras características importantes de engenharia de software como: escalabilidade, manutenibilidade e observabilidade.

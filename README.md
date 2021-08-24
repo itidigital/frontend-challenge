@@ -73,7 +73,15 @@ O prazo é acordado com a pessoa que te enviou este desafio.
 
 ## Entregáveis
 
-Cada nível abaixo é uma dificuldade maior para a entrega do desafio. Você pode implementar de acordo com o seu nível de conhecimento. Dê o melhor com o que você já sabe, não precisa tentar impressionar e fazer algo sem qualidade. Pense como [MVP](https://fia.com.br/blog/mvp/).
+Cada nível abaixo é uma dificuldade maior para a entrega do desafio. 
+
+**Você pode implementar de acordo com o seu nível de conhecimento.** 
+
+Dê o melhor com o que você já sabe, não precisa tentar impressionar e fazer algo sem qualidade. 
+
+Pense como [MVP](https://fia.com.br/blog/mvp/) e entregue o que conseguir em seu tempo com qualidade e funcional. 
+
+Não é necessário bater todos os requisitos abaixo.
 
 1. Eu, como usuário, preciso de um campo onde inserir um usuário do GitHub e, clicando em um botão ou pressionando enter, a aplicação faça uma busca e me envie para uma página com o resultado dessa pesquisa listando os repositórios do usuário localizado. Se o usuário não existir, preciso receber um alerta da aplicação
 2. Eu, como usuário, gostaria de receber um feedback de carregamento enquanto a aplicação busca os dados do usuário que eu digitei

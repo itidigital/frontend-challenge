@@ -1,8 +1,13 @@
 # frontend-challenge
 
-Desafio de frontend do iti Itaú.
+Desafio de frontend do Iti Itaú.
 
 **Este desafio é enviado por email para pessoas avaliadas no processo seletivo para frontend no Iti Itaú.**
+
+## Importante
+
+- você deve criar um repositório onde realizará a produção do código
+- este repositório não deve possuir nenhuma mensão ao Iti ou Itaú (como, por exemplo, colocar o nome iti ou itau no repositório; "desafio-frontend-iti")
 
 ## Introdução
 
